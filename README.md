@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm <a href="https://github.com/kirankumarkn954">Kiran Kumar K N</a>
 
 # 💫 About Me:
-💻 Software Engineering MorganStanley<br>🔭 I’m currently working as frontend developer.<br>🌱 I’m currently learning basic python programming.<br>💬 Ask me about Angular, JavaScript, Typescript, CSS, HTML<br>📫 How to reach me: Email - kirankumarkn954@gmail.com<br><br><br><br>
+💻 Software Engineering MorganStanley<br>🔭 I’m currently working as frontend developer.<br>🌱 I’m currently learning basic python programming.<br>💬 Ask me about Angular, JavaScript, Typescript, CSS, HTML<br>📫 How to reach me: Email - kirankumarkn954@gmail.com<br>👨‍💻 My css projects are available at - <br>    1. https://kirankumarkn954.github.io/amazon_clone_css_project/<br>   2. https://kirankumarkn954.github.io/flipkart_clone_css_project/<br><br><br><br>
 
 
 # 💻 Tech Stack:
